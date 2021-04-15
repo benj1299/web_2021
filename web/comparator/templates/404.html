@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block content %}
+<div class="row">
+    <div class="col-md-12 mt-20">
+        <div class="error-template text-center">
+            <h1>Oops! - Un problème sur la page est survenu</h1>
+            <div class="error-details">
+                La page que vous avez demandé n'existe pas/plus !
+            </div>
+            <div class="error-actions mt-2">
+                <a href="/" class="btn btn-primary btn-lg"><span class="glyphicon glyphicon-home"></span>Retourner à l'accueil </a>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
