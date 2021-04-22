@@ -19,6 +19,7 @@ with open("out.csv", encoding="utf8", errors='ignore') as f:
                     forfait=float(row[10]),
                     link=row[11],
                 )
-                obj.save()
+                if created:
+                    obj.save()
             except:
                 raise Exception("L'objet du model n'a pas pu être sauvegardé")

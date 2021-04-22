@@ -1,4 +1,4 @@
-from django.forms import Form, CharField, ChoiceField, Select, DecimalField
+from django.forms import Form, CharField, ChoiceField, Select, DecimalField, TextInput
 from .models import Operators
 from .constants import OPERATORS, GENERATIONS, STATUT, S_OPERATORS
 
@@ -27,4 +27,7 @@ class OperatorsForm(Form):
         widget=Select(attrs={'class':'form-control selector'}),
         label="")
 
-    forfait = DecimalField(required=False, max_digits=4, decimal_places=2)
+    forfait = DecimalField(required=False, 
+        max_digits=4, 
+        decimal_places=2, 
+        widget=TextInput(attrs={'type': 'range', 'min': '1', 'max': "70", "value": "30", "id": 'pricerange'}))

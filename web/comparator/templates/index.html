@@ -57,13 +57,13 @@
 
             <div class="form-row mt-3">
               {% for field in form %}
-              <div class="col">
+              <div class="col slidecontainer">
                 {{ field }}
                 {{ field.errors }}
               </div>
               {% endfor %}
             </div>
-
+            
             <hr class="my-4">
             <button class="w-100 btn btn-primary btn-lg" type="submit">Comparer les opérateurs</button>
           </form>

@@ -12,7 +12,6 @@ from django.contrib.gis.geos import fromstr, Point
 from django.contrib.gis.db.models.functions import Distance
 from django.contrib.gis.measure import D
 
-
 def index(request):
     telecoms = []
     form = OperatorsForm(request.POST)
@@ -50,9 +49,10 @@ def index(request):
 
         point = fromstr(f'POINT({longitude} {lat})', srid=4326)
         telecoms = telecoms.filter(location__dwithin=(point, distance_to_decimal_degrees(D(km=500), lat))).annotate(distance=Distance('location', point))
-        
+        telecoms = telecoms.order_by('distance')[:3]
+
     return render(request, "index.html", {
-        'telecoms': telecoms.order_by('distance')[:3],
+        'telecoms': telecoms,
         'form': form,
         'message': message
     })

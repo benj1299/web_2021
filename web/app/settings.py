@@ -38,7 +38,6 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "debug_toolbar",
     "comparator.apps.ComparatorConfig",
-    "django_excel_fixture",
     'django.contrib.gis',
 ]
 
