@@ -30,4 +30,4 @@ class OperatorsForm(Form):
     forfait = DecimalField(required=False, 
         max_digits=4, 
         decimal_places=2, 
-        widget=TextInput(attrs={'type': 'range', 'min': '1', 'max': "70", "value": "30", "id": 'pricerange'}))
+        widget=TextInput(attrs={'type': 'range', 'min': '1', 'max': "7w0", "value": "30", "id": 'pricerange', "onchange": "updateTextInput(this.value);"}))

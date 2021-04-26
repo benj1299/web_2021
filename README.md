@@ -12,10 +12,12 @@ Connection à la base de données
 $ docker exec -it db /bin/sh
 $ psql -h db -U postgres
 
-### Développement
+### Initialisation
 
-**Démarrage du serveur**
+Étape 1 : open localhost:8000/importation
+Une fois que le message "Fin de l'importation" apparait, l'importation se sera bien passée
 
+Étape 2 : open localhost:8000
 
 ### Production
 

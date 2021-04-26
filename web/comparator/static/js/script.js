@@ -27,20 +27,6 @@ $(document).ready(function() {
   $('.selector').select2();
 });
 
-function insertAfter(newNode, referenceNode) {
-  referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling);
+function updateTextInput(val) {
+  document.getElementById('result_range').innerHTML="Max: " + val +"€";
 }
-
-var el = document.createElement("span");
-el.id = "outrange";
-
-var output = document.getElementById("outrange");
-var slider = document.getElementById("pricerange");
-
-insertAfter(slider, el);
-
-output.innerHTML = slider.value;
-
-slider.oninput = function() {
-  output.innerHTML = this.value;
-} 
