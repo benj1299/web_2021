@@ -26,6 +26,7 @@
                   <h6 class="my-0" style="margin-left: 10px;"> ({{ telecom.adm_lb_nom }})</h6>
                 </div>
                 <small class="text-muted">{{ telecom.statut }} | {{ telecom.generation }}</small>
+                {% if forloop.first %}<small>(Votre meilleur option)</small>{% endif %}
               </div>
               <span class="text-muted">{{ telecom.forfait }}€</span>
             </li>

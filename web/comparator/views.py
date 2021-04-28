@@ -63,7 +63,6 @@ def importation(request):
         next(reader, None)
         
         for row in reader:
-            ##id_zone=int(row[2]),
             try:
                 obj, created = Operators.objects.get_or_create(
                     adm_lb_nom=row[2],

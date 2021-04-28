@@ -35,8 +35,6 @@ Mot de passe : root
 
 ### Initialisation
 
-  
-
  1. open localhost:8000/importation
  2. open localhost:8000
 
