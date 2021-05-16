@@ -1,20 +1,22 @@
 Opérateur,Sous opérateur,Image,Forfait,Prix,Lien
-BOUYGUES TELECOM,B&You,"https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://lemon.fr/wp-content/uploads/2019/07/logo-bouygues.png","[' 200Go ', ' 24/24']",14.99€,https://lemon.fr/offres/byou-200go/
-SFR,RED,"https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://lemon.fr/wp-content/uploads/2016/02/Red-by-sfr.png","[' 200Go ', ' 24/24']",15€,https://lemon.fr/offres/red-200go/
-SFR,Prixtel,https://lemon.fr/wp-content/uploads/2021/01/logo-prixtel.svg,"[' 10Go ', ' 24/24']",4.99€,https://lemon.fr/offres/prixtel-le-petit/
-ORANGE,Prixtel,https://lemon.fr/wp-content/uploads/2021/01/logo-prixtel.svg,"[' 10Go ', ' 24/24']",4.99€,https://lemon.fr/offres/prixtel-le-petit/
-FREE MOBILE,Free,"https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://lemon.fr/wp-content/uploads/2018/05/Logo_Free-300x125.png","[' 80Go ', ' 24/24']",9.99€,https://lemon.fr/offres/free-mobile-80go-24-24-2/
 SFR,RED,"https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://lemon.fr/wp-content/uploads/2016/02/Red-by-sfr.png","[' 5Go ', ' 24/24']",5€,https://lemon.fr/offres/red-5go/
 BOUYGUES TELECOM,B&You,"https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://lemon.fr/wp-content/uploads/2019/07/logo-bouygues.png","[' 5Go ', ' 24/24']",4.99€,https://lemon.fr/offres/byou-1go/
+SFR,Prixtel,https://lemon.fr/wp-content/uploads/2021/01/logo-prixtel.svg,"[' 20Go ', ' 24/24']",4.99€,https://lemon.fr/offres/prixtel-le-petit/
+ORANGE,Prixtel,https://lemon.fr/wp-content/uploads/2021/01/logo-prixtel.svg,"[' 20Go ', ' 24/24']",4.99€,https://lemon.fr/offres/prixtel-le-petit/
+BOUYGUES TELECOM,Cdiscount,"https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://lemon.fr/wp-content/uploads/2020/02/logo-cdiscount_mobile.png","[' 20Go ', ' 24/24']",1.99€,https://lemon.fr/offres/cdiscount-20go/
 SFR,LaPosteMobile,"https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://lemon.fr/wp-content/uploads/2019/04/logo_laposte_mobile-300x207.png",[' 30Go'],9.99€,https://lemon.fr/offres/lapostemobile-30go-24-24/
-BOUYGUES TELECOM,Cdiscount,"https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://lemon.fr/wp-content/uploads/2020/02/logo-cdiscount_mobile.png","[' 30Go ', ' 24/24']",2.99€,https://lemon.fr/offres/cdiscount-30go/
-SFR,Prixtel,https://lemon.fr/wp-content/uploads/2021/01/logo-prixtel.svg,"[' 40Go ', ' 24/24']",9.99€,https://lemon.fr/offres/prixtel-le-grand/
-ORANGE,Prixtel,https://lemon.fr/wp-content/uploads/2021/01/logo-prixtel.svg,"[' 40Go ', ' 24/24']",9.99€,https://lemon.fr/offres/prixtel-le-grand/
-SFR,SFR,"https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://lemon.fr/wp-content/uploads/2019/07/logo-sfr-header.jpg","[' 80Go ', ' 24/24']",20€,https://lemon.fr/offres/sfr-80go/
+FREE MOBILE,Free,"https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://lemon.fr/wp-content/uploads/2018/05/Logo_Free-300x125.png","[' 90Go ', ' 24/24']",9.99€,https://lemon.fr/offres/free-mobile-90go/
+,NRJ,"https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://lemon.fr/wp-content/uploads/2019/12/nrj-mobile-logo-300x225.png","[' 3Go ', ' 24/24']",3.99€,https://lemon.fr/offres/nrj-mobile-3go/
+SFR,RED,"https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://lemon.fr/wp-content/uploads/2016/02/Red-by-sfr.png","[' 60Go ', ' 24/24']",12€,https://lemon.fr/offres/red-60go/
+BOUYGUES TELECOM,B&You,"https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://lemon.fr/wp-content/uploads/2019/07/logo-bouygues.png","[' 60Go ', ' 24/24']",11.99€,https://lemon.fr/offres/byou-60go/
+BOUYGUES TELECOM,Cdiscount,"https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://lemon.fr/wp-content/uploads/2020/02/logo-cdiscount_mobile.png","['50Go ', ' 24/24']",10€,https://lemon.fr/offres/cdiscount-50go/
+SFR,Prixtel,https://lemon.fr/wp-content/uploads/2021/01/logo-prixtel.svg,"[' 40Go ', ' 24/24']",7.99€,https://lemon.fr/offres/prixtel-le-grand/
+ORANGE,Prixtel,https://lemon.fr/wp-content/uploads/2021/01/logo-prixtel.svg,"[' 40Go ', ' 24/24']",7.99€,https://lemon.fr/offres/prixtel-le-grand/
 SFR,SFR,"https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://lemon.fr/wp-content/uploads/2019/07/logo-sfr-header.jpg","[' 2h00 ', ' 100Mo']",3€,https://lemon.fr/offres/sfr-2h00/
-,NRJ,"https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://lemon.fr/wp-content/uploads/2019/12/nrj-mobile-logo-300x225.png","[' 200Go ', ' 24/24']",9.99€,https://lemon.fr/offres/nrj-mobile/
-SFR,RED,"https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://lemon.fr/wp-content/uploads/2016/02/Red-by-sfr.png","[' 100Go ', ' 24/24']",13€,https://lemon.fr/offres/red-100go-24-24/
+BOUYGUES TELECOM,Cdiscount,"https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://lemon.fr/wp-content/uploads/2020/02/logo-cdiscount_mobile.png","[' 100Go ', ' 24/24']",6.99€,https://lemon.fr/offres/cdiscount-100go/
 SFR,Prixtel,https://lemon.fr/wp-content/uploads/2021/01/logo-prixtel.svg,"[' 100Go ', ' 24/24']",12.99€,https://lemon.fr/offres/prixtel-le-geant/
 ORANGE,Prixtel,https://lemon.fr/wp-content/uploads/2021/01/logo-prixtel.svg,"[' 100Go ', ' 24/24']",12.99€,https://lemon.fr/offres/prixtel-le-geant/
-BOUYGUES TELECOM,B&You,"https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://lemon.fr/wp-content/uploads/2019/07/logo-bouygues.png","[' 100Go ', ' 24/24']",12.99€,https://lemon.fr/offres/byou-100go-24-24/
+SFR,RED,"https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://lemon.fr/wp-content/uploads/2016/02/Red-by-sfr.png","[' 100Go ', ' 24/24']",14€,https://lemon.fr/offres/red-100go-24-24/
+BOUYGUES TELECOM,B&You,"https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://lemon.fr/wp-content/uploads/2019/07/logo-bouygues.png","[' 100Go ', ' 24/24']",13.99€,https://lemon.fr/offres/byou-100go-24-24/
 FREE MOBILE,Free,"https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://lemon.fr/wp-content/uploads/2018/05/Logo_Free-300x125.png","[' 150Go ', ' 24/24']",19.99€,https://lemon.fr/offres/free-mobile-100go-24-24-comparateur/
+,NRJ,"https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://lemon.fr/wp-content/uploads/2019/12/nrj-mobile-logo-300x225.png","[' 150Go ', ' 24/24']",7.99€,https://lemon.fr/offres/nrj-mobile/

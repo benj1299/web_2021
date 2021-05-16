@@ -21,5 +21,5 @@ with open("out.csv", encoding="utf8", errors='ignore') as f:
                 )
                 if created:
                     obj.save()
-            except:
-                raise Exception("L'objet du model n'a pas pu être sauvegardé")
+            except Exception as e:
+                raise Exception("L'objet du model n'a pas pu être sauvegardé pour la raison : "+ str(e))
